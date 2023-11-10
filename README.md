@@ -4,7 +4,7 @@ Projeto desenvolvido para aplicar as habilidades adquiridas no curso introdutór
 ![Imagem](#)
 
 ### **Live Preview** do projeto 
-[aqui](https://bruno-guilherme.github.io/todo-list/)
+* [aqui](https://bruno-guilherme.github.io/todo-list/)
 
 
 ## Habilidades
