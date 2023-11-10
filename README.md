@@ -3,7 +3,8 @@ Projeto desenvolvido para aplicar as habilidades adquiridas no curso introdutór
 
 ![Imagem](#)
 
-### **Live Preview** do projeto [aqui]([url](https://bruno-guilherme.github.io/todo-list/))
+### **Live Preview** do projeto 
+[aqui]([url](https://bruno-guilherme.github.io/todo-list/))
 
 
 ## Habilidades
