@@ -5,13 +5,13 @@ body {
 }
 
 main {
-  margin: 0 auto;
+  margin: 1rem auto 0 auto;
   padding: 20px;
 
-  width: 50%;
+  width: 40vw;
   max-width: 800px;
 
-  height: 95vh;
+  height: 90vh;
 
   overflow-y: scroll;
 
@@ -22,6 +22,8 @@ main {
   gap: 1rem;
 
   background-color: grey;
+
+  border-radius: 10px;
 }
 form {
   padding: 1rem 2rem;
